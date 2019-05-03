@@ -1,1 +1,1 @@
-# UsbDescriptor контроль включеных устройст OTG android
+# UsbDescriptor контроль включеных устройст OTG 
